@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2ae946c-ac19-43b0-8101-a5a603d14a47" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/semantic.min.css" afterPath="$PROJECT_DIR$/dist/semantic.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="semantic-ui.iws" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="semantic.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/semantic.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3277635" vertical-offset="0" max-vertical-offset="475935">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.32860824" vertical-offset="0" max-vertical-offset="475935">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -248,12 +247,12 @@
       <option name="number" value="Default" />
       <updated>1430132971751</updated>
       <workItem from="1430132972297" duration="238000" />
-      <workItem from="1430133705504" duration="91000" />
+      <workItem from="1430133705504" duration="575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329000" />
+    <option name="totallyTimeSpent" value="813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -326,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/semantic.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3277635" vertical-offset="0" max-vertical-offset="475935">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.32860824" vertical-offset="0" max-vertical-offset="475935">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>
